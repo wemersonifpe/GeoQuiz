@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
+    <string name="questao1">o Brasil e penta campeão!</string>
+    <string name="questao2">vermelho e amarelo dar preto!</string>
+    <string name="questao3">Marvel e melhor que DC!</string>
+    <string name="correto">correto</string>
+    <string name="incorreto">incorreto</string>
+    <string name="false_button">false</string>
+    <string name="true_button">true</string>
+
+
 </resources>

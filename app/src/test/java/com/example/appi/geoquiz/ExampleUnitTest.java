@@ -1,4 +1,4 @@
-package com.example.milenamacedo.geoquiz;
+package com.example.appi.geoquiz;
 
 import org.junit.Test;
 
