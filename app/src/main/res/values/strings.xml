@@ -1,4 +1,9 @@
 <resources>
+    <!--<string name="app_name">GeoQuiz</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="false_button">false</string>-->
+
     <string name="app_name">GeoQuiz</string>
     <string name="questao1">o Brasil e penta campeão!</string>
     <string name="questao2">vermelho e amarelo dar preto!</string>
@@ -7,6 +12,7 @@
     <string name="incorreto">incorreto</string>
     <string name="false_button">false</string>
     <string name="true_button">true</string>
-
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
 
 </resources>

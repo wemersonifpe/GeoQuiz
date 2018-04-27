@@ -1,4 +1,4 @@
-package com.example.appi.geoquiz;
+package br.com.gustech.android.geoquiz;
 
 import org.junit.Test;
 
