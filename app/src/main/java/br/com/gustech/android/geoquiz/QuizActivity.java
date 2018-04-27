@@ -50,8 +50,8 @@ public class QuizActivity extends AppCompatActivity {
         mPrevButton = (Button) findViewById(R.id.prev_button);
         mPrevButton.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                if (mCurrentIndex==0){
-                    mCurrentIndex=mQuestionBank.hashCode();
+                if (mCurrentIndex == 0){
+                    mCurrentIndex = mQuestionBank.hashCode();
                 }
                 mCurrentIndex = (mCurrentIndex - 1) % mQuestionBank.length;
                 updateQuestion();
@@ -107,9 +107,12 @@ public class QuizActivity extends AppCompatActivity {
     }
 
     private Question[] mQuestionBank = new Question[]{
-            new Question(R.string.questao1,true),
+            new Question(R.string.questao1,false),
             new Question(R.string.questao2,true),
             new Question(R.string.questao3,false),
+            new Question(R.string.questao4,false),
+            new Question(R.string.questao5,false),
+            new Question(R.string.questao6,true)
     };
 
     private void updateQuestion(){
