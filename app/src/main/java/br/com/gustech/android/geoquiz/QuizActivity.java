@@ -24,6 +24,7 @@ public class QuizActivity extends AppCompatActivity {
     private Button mFalseButton;
     private Button mNextButton;
     private Button mPrevButton;
+    private Button mCheatButton;
 
     private TextView mQuestionTextView;
     private int mCurrentIndex;
@@ -55,6 +56,12 @@ public class QuizActivity extends AppCompatActivity {
                 }
                 mCurrentIndex = (mCurrentIndex - 1) % mQuestionBank.length;
                 updateQuestion();
+            }
+        });
+        mCheatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //Strat CheatActivity
             }
         });
 

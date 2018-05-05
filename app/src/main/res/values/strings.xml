@@ -11,6 +11,10 @@
     <string name="questao4">Tonga é um pais da Africa!</string>
     <string name="questao5">A Russia é maior que a America do Norte</string>
     <string name="questao6">A India é mais populosa que a Europa!</string>
+    <string name="warning_texte">Tem certeza que querfazer isso?</string>
+    <string name="show_answer_button">Mostrar resposta</string>
+    <string name="cheat_button">Trapacear!</string>
+    <string name="jdgment_toast">Trapacear é errado.</string>
     <string name="correto">correto</string>
     <string name="incorreto">incorreto</string>
     <string name="false_button">false</string>
