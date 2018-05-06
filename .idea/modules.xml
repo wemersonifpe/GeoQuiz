@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\AndroidSDK\GeoQuizAtualizado\GeoQuiz.iml" filepath="C:\AndroidSDK\GeoQuizAtualizado\GeoQuiz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/GeoQuizAtualizado.iml" filepath="$PROJECT_DIR$/.idea/GeoQuizAtualizado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GeoQuiz5.iml" filepath="$PROJECT_DIR$/.idea/GeoQuiz5.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\AndroidSDK\GeoQuizAtualizado\app\app.iml" filepath="C:\AndroidSDK\GeoQuizAtualizado\app\app.iml" />
     </modules>
   </component>
 </project>
